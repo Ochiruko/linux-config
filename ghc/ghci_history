@@ -1,0 +1,6 @@
+:q
+:edit listExercises.hs 
+:q
+:edit listExercises.hs 
+:q
+:set editor nvim
